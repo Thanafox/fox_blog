@@ -1,0 +1,15 @@
+social:
+  - name: RSS
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+    link: /atom.xml # config.feed.path
+    icon: ri:rss-line
+    color: orange
+  - name: GitHub
+    link: https://github.com/Thanafox
+    icon: ri:github-line
+    color: '#181717'
+  - name: E-Mail
+    link: mailto:15311490955@163.com
+    icon: ri:mail-line
+    color: '#8E71C1'
