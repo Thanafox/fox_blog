@@ -29,11 +29,12 @@ giscus:
   emit-metadata: 0
   theme: light
 
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+
 footer:
   since: 2016
-  icon:
-    url: https://sponsors.yunyoujun.cn
-    title: 云游君的赞助者们
   beian:
     enable: true
     icp: 苏ICP备17038157号
