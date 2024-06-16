@@ -1,7 +1,7 @@
 mode: auto
 
 avatar:
-  url: /images/avatar.jpg
+  url: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/avatar.jpg
   status:
     enable: true
     emoji: 🌑
@@ -31,7 +31,7 @@ giscus:
 
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  url: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/fox_in_forest.jpg
 
 footer:
   since: 2016
