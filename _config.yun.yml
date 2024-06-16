@@ -31,7 +31,6 @@ giscus:
 
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/fox_in_forest.jpg
   dark: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/fox_in_forest.jpg
 
 footer:
