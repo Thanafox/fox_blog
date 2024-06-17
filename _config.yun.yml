@@ -16,7 +16,7 @@ github_issues:
 github_discussions:
   enable: true
   username: Thanafox
-  repository: fox_blog
+  repository: Thanafox/fox_blog
 
 # https://github.com/laymonage/giscus
 giscus:
