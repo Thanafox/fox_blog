@@ -31,8 +31,8 @@ giscus:
 
 bg_image:
   enable: true
-  url: https://w.wallhaven.cc/full/zx/wallhaven-zx7m7w.jpg
-  dark: https://konachan.com/sample/5e1bd802e9a45910679bb1c5a1af8fd2/Konachan.com%20-%20296960%20sample.jpg
+  url: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/wfox.jpg
+  dark: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/ffox.jpg
 
 footer:
   since: 2024
