@@ -63,8 +63,7 @@ comment:
   enable: true
   tips:
   candidates:
-    - valine
-    - utterances
+    - github_discussions
 
 utterances:
   enable: false
