@@ -1,7 +1,7 @@
 ---
 layout: girls
 title: 正中xpの
-banner: <span>排名不分先后</span>
+banner: <span title="惊艳流光：记忆中的过客">排名不分先后</span>
 girls:
   - name: 帕米埃
     avatar: https://patchwiki.biligame.com/images/reverse1999/thumb/8/8d/56ume79t0un5edgyx23fa6gj4w7rst3.png/75px-%E8%A7%92%E8%89%B2%E5%9B%BE%E6%A0%87_%E5%B8%95%E7%B1%B3%E5%9F%83_01.png

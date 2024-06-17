@@ -8,15 +8,15 @@ avatar:
     message: Looking for dawn.
 
 github_issues:
-  enable: false
+  enable: true
+  username: Thanafox
+  repository: fox_blog
+  filters: is:issue
 
 github_discussions:
-  enable: false
-
-disqusjs:
-  enable: false
-  shortname: yunyoujun
-  apikey: ouoGQCaamOKdJgyZU5DKcpFnRIg3SNzvk0nwygPtlcTRJuE68c8igvrZGW4wAJoN
+  enable: true
+  username: Thanafox
+  repository: fox_blog
 
 # https://github.com/laymonage/giscus
 giscus:
@@ -34,7 +34,7 @@ bg_image:
   dark: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/fox_in_forest.jpg
 
 footer:
-  since: 2016
+  since: 2024
   custom_text:
 
 engine_search:
@@ -57,6 +57,20 @@ albums:
 
 girls:
   enable: true
+
+comment:
+  enable: true
+  tips:
+  candidates:
+    - valine
+    - utterances
+
+utterances:
+  enable: false
+  repo: Thanafox/fox_blog
+  issue-term: pathname
+  # label: comment
+  theme: github-light
 
 tags:
   动画: crimson
