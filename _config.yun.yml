@@ -31,7 +31,8 @@ giscus:
 
 bg_image:
   enable: true
-  dark: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/fox_in_forest.jpg
+  url: https://w.wallhaven.cc/full/zx/wallhaven-zx7m7w.jpg
+  dark: https://konachan.com/sample/5e1bd802e9a45910679bb1c5a1af8fd2/Konachan.com%20-%20296960%20sample.jpg
 
 footer:
   since: 2024
