@@ -59,11 +59,16 @@ albums:
 girls:
   enable: true
 
+waline:
+  enable: true
+  serverURL: https://fox-blog-tawny.vercel.app/
+  comment: true
+
 comment:
   enable: true
   tips:
   candidates:
-    - github_discussions
+    - waline
 
 utterances:
   enable: false
