@@ -63,6 +63,7 @@ waline:
   enable: true
   serverURL: https://foxbblog-fbwu95nwl-thanafoxs-projects.vercel.app
   comment: true
+  version: 3.2.2
 
 comment:
   enable: true
