@@ -61,7 +61,7 @@ girls:
 
 waline:
   enable: true
-  serverURL: https://fox-blog-tawny.vercel.app/
+  serverURL: https://foxbblog-fbwu95nwl-thanafoxs-projects.vercel.app/
   comment: true
 
 comment:
