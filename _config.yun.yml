@@ -32,7 +32,7 @@ giscus:
 bg_image:
   enable: true
   url: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/wfox.jpg
-  dark: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/ffox.jpg
+  dark: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/fffox.jpg
 
 footer:
   since: 2024
