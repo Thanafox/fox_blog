@@ -50,7 +50,8 @@ girls:
 
 waline:
   enable: true
-  serverURL: https://gleaming-madeleine-bcf0fa.netlify.app/.netlify/functions/comment #https://foxbblog-thanafoxs-projects.vercel.app
+  serverURL: https://foxbblog-thanafoxs-projects.vercel.app
+  visitor: true
   comment: true
   version: 3.2.2
 
