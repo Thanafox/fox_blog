@@ -18,17 +18,6 @@ github_discussions:
   username: Thanafox
   repository: Thanafox/fox_blog
 
-# https://github.com/laymonage/giscus
-giscus:
-  enable: false
-  repo: YunYouJun/yunyoujun.github.io
-  repo-id:
-  category-id:
-  mapping: pathname
-  reactions-enabled: 1
-  emit-metadata: 0
-  theme: light
-
 bg_image:
   enable: true
   url: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/wfox.jpg
