@@ -50,7 +50,7 @@ girls:
 
 waline:
   enable: true
-  serverURL: https://foxbblog-thanafoxs-projects.vercel.app #彻底放弃
+  serverURL: https://waline.thanafox.com
   visitor: true
   comment: true
   version: 3.2.2
