@@ -154,5 +154,8 @@ social:
     icon: ri:mail-line
     color: '#8E71C1'
 
+color:
+  - bg: "#f08848"
+
 # pjax:
 #   enable: true
