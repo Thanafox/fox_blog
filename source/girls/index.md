@@ -58,7 +58,7 @@ girls:
     reason: 狐狸/狡黠/傲娇/妖气
 
   - name: 妖刀姬
-    avatar: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/img_5.png
+    avatar: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/images/img_7.png
     from: 永劫无间
     url: https://zh.moegirl.org.cn/%E7%8E%89%E7%8E%B2%E7%8F%91
     reason: 妖气/破碎感/执念
@@ -128,4 +128,5 @@ ChatGPT对我的评价(笑)：
 你对神秘和难以接近的角色感兴趣，这反映了你对未知和探索的热爱。你可能喜欢探索新领域，发现新的知识和真相。
 
 综上所述，你是一个对复杂性和智慧有深刻理解和欣赏的人，重视理性和自我提升，对挑战和探索充满热情，同时具备同情心和理解他人感受的能力。
+
 ##
