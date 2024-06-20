@@ -33,7 +33,7 @@ girls:
     url: https://zh.moegirl.org.cn/%E6%9C%AC%E9%97%B4%E8%8A%BD%E8%A1%A3%E5%AD%90
     reason: 银发/鬼(?)/勿忘我
 
-    - name: 友利奈绪
+  - name: 友利奈绪
     avatar: https://img.moegirl.org.cn/common/thumb/1/1a/52510696_p0.jpg/420px-52510696_p0.jpg
     from: Charlotte
     url: https://zh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA
