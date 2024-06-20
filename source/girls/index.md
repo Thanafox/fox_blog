@@ -16,25 +16,25 @@ girls:
     reason: 木质调/雪松/晚香玉/知性大姐姐
 
   - name: 堀 京子
-    avatar: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/girls/img.png
+    avatar: 
     from: 堀与宫村
     url: https://zh.moegirl.org.cn/%E5%A0%80%E4%BA%AC%E5%AD%90
     reason: 高中生/贤惠/抖M/抖S/聪慧/反差萌/高攻低防
 
   - name: 雾切响子
-    avatar: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/girls/img_1.png
+    avatar: 
     from: 弹丸论破系列
     url: https://zh.moegirl.org.cn/%E9%9B%BE%E5%88%87%E5%93%8D%E5%AD%90
     reason: 银发/冷感/智慧/反差萌
 
   - name: 面码
-    avatar:https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/girls/img_2.png
+    avatar:
     from: 我们仍未知道那天所看见的花的名字。
     url: https://zh.moegirl.org.cn/%E6%9C%AC%E9%97%B4%E8%8A%BD%E8%A1%A3%E5%AD%90
     reason: 银发/鬼(?)/勿忘我
 
   - name: 友利奈绪
-    avatar: https://cdn.jsdelivr.net/gh/Thanafox/fox_blog/source/girls/img_3.png
+    avatar: 
     from: Charlotte
     url: https://zh.moegirl.org.cn/%E5%8F%8B%E5%88%A9%E5%A5%88%E7%BB%AA
     reason: 白毛/聪慧/超能力/腹黑
